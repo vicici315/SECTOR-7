@@ -15,7 +15,6 @@ echo [%timestamp%] commit: %comments% v%lastline% >> history.txt
 echo %lastLine% >> ver.txt
  
 git add .
-Rem git reset HEAD ProjectN*
 git commit -m "[%timestamp%] commit: %comments% v%lastline%"
 
 git log --stat -1
