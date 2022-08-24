@@ -7,3 +7,4 @@ At [2022-07-02 13:32:50] Push.
 [2022-07-17 12:12:39] commit: update v3 
 [2022-07-19 21:34:23] commit: end v4 
 [08.24.22 周三 14:40:52] commit: Edit: Update bat (VICPC) v5 
+[08.24.22 周三 14:43:12] commit: del push (VICPC) v6 
